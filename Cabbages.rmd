@@ -64,3 +64,5 @@ The chances if getting a result like this are 0.00000003405. This shows that the
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Using a bloxplot I found that the upper half of the data for C52 was completely above the data of the lower half of C39. I also found that Q3 of C39 has a value of 54.75, which is lower than the Q1 of C52, which is 58. Using a t test, I found that the probability that the two groups were the same is 0.00000003405. All these results show that there is a significant difference between the two groups in terms of viatmin c.
