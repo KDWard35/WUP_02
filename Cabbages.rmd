@@ -40,6 +40,7 @@ veggy <- cabbages
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
+These boxplots display the amount of vitamin c content in the cabbages of each cultivation group. The upper 50 percent of the C52 group lays completely above the lower 50 percent of the C39 group. This shows a statistical difference in the amount of vitamin c that is found in each group's cabbages.
 
 ### Numerical Descriptive Results
 
