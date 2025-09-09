@@ -59,7 +59,7 @@ THe Q3 of C39 has a value of 54.75, which is lower than the Q1 of C52, which is 
 t.test(VitC~Cult,data=veggy)
 ```
 
-
+The chances if getting a result like this are 0.00000003405. This shows that the odds they are the same are practically zero, which means they are statistically different. 
 
 # Discussion and Conclusion
 
